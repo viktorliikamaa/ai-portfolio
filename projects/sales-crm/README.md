@@ -1,6 +1,6 @@
 # Sales CRM for a wealth-management team
 
-A custom CRM that replaced an off-the-shelf call-list tool for a Swedish sales team calling business owners. Built slice by slice by an AI coding agent under my direction. **In daily use.**
+A custom CRM built to replace an off-the-shelf call-list tool for a Swedish sales team calling business owners. Built slice by slice by an AI coding agent under my direction. **It worked end to end, but the team never adopted it.**
 
 ## The problem
 
@@ -41,5 +41,7 @@ After a full end-to-end run, everything passed, but the tool still didn't *feel*
 ## What I learned
 
 The most valuable part of the process wasn't the build loop. It was writing down **when the agent must stop and ask me**: real personal data, decisions without a test signal, irreversible actions, and scope creep. Those rules later transferred unchanged to a completely different project.
+
+The second lesson came after the build: the CRM worked, but the team kept using the old tool. Building something that works is only half the job. Getting people to switch to it is the other half.
 
 📄 Full write-up: [Directing AI Coding Agents Without an Engineering Background](../../research/)
