@@ -27,7 +27,7 @@ Three principles run through every project:
 
 | Project | What it shows | Status |
 | --- | --- | --- |
-| [Sales CRM](projects/sales-crm/) | Building a production tool without an engineering background; agent escalation rules | In daily use |
+| [Sales CRM](projects/sales-crm/) | Building a working tool without an engineering background; agent escalation rules | Built, not adopted |
 | [Crypto volatility scanner](projects/crypto-volatility-scanner/) | ML in production, a rigorous post-mortem, why a better model traded worse | Redesigned, validating |
 | [DeFi liquidation study](projects/defi-liquidation-study/) | Hypothesis testing on on-chain data; a clean negative result | Concluded |
 | [LLM claims verification](projects/llm-claims-verification/) | Catching and fixing unsupported claims in AI-generated content | Built into pipeline |
